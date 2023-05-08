@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: 'Andrew, Ben, Pri, Filip'
 format: html
 editor: source
 self-contained: true
